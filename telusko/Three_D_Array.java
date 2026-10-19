@@ -1,3 +1,4 @@
+package telusko;
 public class Three_D_Array 
 {
     public static void main(String[] args) 

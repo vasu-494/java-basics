@@ -1,3 +1,4 @@
+package telusko;
 class Person
 {
     private String name;

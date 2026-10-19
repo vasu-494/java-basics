@@ -1,3 +1,4 @@
+package broCode;
 import java.util.Scanner;
 
 public class Mad_Libs 

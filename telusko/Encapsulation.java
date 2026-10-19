@@ -1,3 +1,4 @@
+package telusko;
 class Human
 {
     private String name;

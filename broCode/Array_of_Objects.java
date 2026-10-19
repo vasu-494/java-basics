@@ -1,5 +1,8 @@
-// Print name and marks of student - using array of objects
+package broCode;
 import java.util.Scanner;
+
+// Print name and marks of student - using array of objects
+
 
 class Student
 {

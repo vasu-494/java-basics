@@ -1,3 +1,4 @@
+package broCode;
 /* Simple Shopping Cart Program
 Take 3 inputs from user - product, price of the item, quantity
 Then display the total amount the customer should pay

@@ -1,3 +1,4 @@
+package telusko;
 class Animal
 {   
     private String species;

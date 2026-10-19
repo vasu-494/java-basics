@@ -1,3 +1,4 @@
+package telusko;
 class Person
 {
     int age;
