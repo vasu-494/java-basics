@@ -1,4 +1,4 @@
-package inheritance_temp;
+package inheritance;
 
 public class CarInheritance 
 {
