@@ -1,5 +1,5 @@
 package telusko;
-class Person
+class PersonData
 {
     private String name;
     private int age;
@@ -34,7 +34,7 @@ public class This_Keyword
 {   
     public static void main(String[] args) 
     {
-        Person me = new Person();
+        PersonData me = new PersonData();
 
         // input the values of name and age
         me.setName("Vasu");
